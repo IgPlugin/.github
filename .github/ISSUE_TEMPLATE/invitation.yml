@@ -6,7 +6,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: Name
+      label: My Github Username is...
       placeholder: Insert your name here
     validations:
       required: true
